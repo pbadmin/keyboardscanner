@@ -2,5 +2,6 @@
 
 ## Proyecto de Korg MicroKEY-37 ##
 
-![keyboardscanner](https://raw.githubusercontent.com/pbadmin/keyboardscanner-Korg-MicroKEY-37/master/Junk_keyboard.jpg)
+![junk](https://raw.githubusercontent.com/pbadmin/keyboardscanner-Korg-MicroKEY-37/master/Junk_keyboard.jpg)
 
+![korgmatrix](https://raw.githubusercontent.com/pbadmin/keyboardscanner-Korg-MicroKEY-37/master/Matrix_Korg_Microkeys37.jpg)
