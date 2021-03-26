@@ -294,8 +294,8 @@ byte input_pins[] = {
     PIN_A6,
     PIN_A7,
     PIN_A8,
-//    PIN A1,
-//    PIN A2,
+    PIN_A1,
+    PIN_A2,
 };
 
 //cheap keyboards often has the black keys softer or harder than the white ones
